@@ -1,0 +1,1 @@
+﻿netsh interface portproxy delete v4tov4 listenport=3000 listenaddress=1.1.1.1 connectport=4000 connectaddress=2.2.2.2

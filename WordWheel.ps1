@@ -1,0 +1,1 @@
+﻿reg query "HKCU\Software\Microsoft\Windows\currentversion\explorer\wordwheelquery"

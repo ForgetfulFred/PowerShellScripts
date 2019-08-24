@@ -1,0 +1,6 @@
+﻿reg query "HKEY_CURRENT_USER\Software\Microsoft\Windows\currentversion\applets\paint\ribbon"
+reg query "HKEY_CURRENT_USER\Software\Microsoft\Windows\currentversion\applets\paint\recent file list"
+reg query "HKEY_CURRENT_USER\Software\Microsoft\Windows\currentversion\applets\paint\text"
+reg query "HKEY_CURRENT_USER\Software\Microsoft\Windows\currentversion\applets\systray"
+reg query "HKEY_CURRENT_USER\Software\Microsoft\Windows\currentversion\applets\wordpad\options"
+reg query "HKEY_CURRENT_USER\Software\Microsoft\Windows\currentversion\deviceaccess"

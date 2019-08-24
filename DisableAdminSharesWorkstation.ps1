@@ -1,0 +1,1 @@
+reg add HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters /f /v AutoShareWkks /t REG_DWORD /d 0

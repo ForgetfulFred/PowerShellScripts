@@ -1,0 +1,2 @@
+﻿hostname
+net users

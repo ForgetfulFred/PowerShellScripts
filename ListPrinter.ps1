@@ -1,0 +1,2 @@
+﻿wmic printer
+wmic printerconfig

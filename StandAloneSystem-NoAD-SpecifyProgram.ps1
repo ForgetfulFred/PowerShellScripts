@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun" /v badfile.exe /t REG_SZ / badfilename.exe /f

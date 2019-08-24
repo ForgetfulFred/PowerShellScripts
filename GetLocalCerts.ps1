@@ -1,0 +1,1 @@
+﻿get-item cert:\LocalMachine\$theStore\$theThumbprint

@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v DisallowRun / REG_DWORD /d "00000001" /f
